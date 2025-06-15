@@ -18,3 +18,10 @@ This repository documents my journey of learning and reviewing Python using Jupy
 
 ---
 Feel free to explore the notebooks and follow along with the learning process!
+
+---
+- **markdown.ipynb** Basic markdown syntax
+- **paython_basic.ipynb** Basic python coding syntax 
+- **pytubefix.ipynb** From an interesting library for downloading videos
+- **flask.ipynb** Use Flash to build a quick web app server
+- **api_calls.ipynb** How to use request/response pair
